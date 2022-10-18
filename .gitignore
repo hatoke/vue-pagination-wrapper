@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+/dist
+.prettierrc
+.husky
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
